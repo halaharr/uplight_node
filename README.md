@@ -1,6 +1,6 @@
 # HMAC Generator
 
-There are 2 ways to run the suerver (1) through docker container (2) using 'npm run start'
+There are 2 ways to run the server (1) docker container (2) using 'npm run start'
 
 ## Using npm run start
 
