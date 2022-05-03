@@ -34,7 +34,7 @@ There are 2 ways to run the server (1) docker container (2) using 'npm run start
 (4) Run
 `docker run -p 8080:8080 -d halaharr/hmac-generator`
 
-### Once the server is running
+### Once the server is running, run the curl command to see the result
 
 ```
  curl  -d "id=MDAwMDAwMDAwMDAwVOwMD" http://localhost:8080
