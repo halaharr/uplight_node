@@ -1,0 +1,19 @@
+{
+  "name": "hmac",
+  "version": "1.0.0",
+  "description": "HMAC generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "Reddy Halaharvi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
